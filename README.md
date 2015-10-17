@@ -5,6 +5,10 @@ All files are in `public` folder
 
 # Install
 
+  npm install (package.json)
+  
+  OR 
+
   npm install express
 
   npm install walk
