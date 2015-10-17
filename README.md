@@ -10,3 +10,5 @@ All files are in `public` folder
   npm install walk
 
   node books
+  
+# Open http://localhost:8080
