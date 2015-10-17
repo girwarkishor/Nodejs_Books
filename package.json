@@ -1,0 +1,10 @@
+{
+  "name": "A simple App IT Books Node.js",
+  "description": "A package using versioning best-practices",
+  "author": "Adrian Statescu <mergesortv@gmail.com>",
+  "dependencies": {
+    "Express": "4.13.3",
+    "Walk": "2.3.9"
+  }
+  "engine": "node >= 0.4.1"
+}
