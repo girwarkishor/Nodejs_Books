@@ -1,11 +1,12 @@
-# Node.js
-My favorite IT books.
+# Node.js Books
+My favorite IT Node.js Books.
 
 All files are in `public` folder
 
 # Install
 
   npm install express
+
   npm install walk
 
   node books
